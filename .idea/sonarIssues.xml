@@ -23,6 +23,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/graph/CourseScheduleII.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/graph/LongestConsecutiveSequence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/graph/NumberOfIslands.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
